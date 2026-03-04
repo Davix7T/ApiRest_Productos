@@ -1,11 +1,12 @@
-com\store\products\dto\ProductRequest.class
 com\store\products\controller\ProductController.class
 com\store\products\exception\ResourceNotFoundException.class
 com\store\products\service\impl\ProductServiceImpl.class
-com\store\products\ProductsApplication.class
 com\store\products\exception\ApiError.class
 com\store\products\service\ProductService.class
 com\store\products\entity\Product.class
 com\store\products\exception\GlobalExceptionHandler.class
+com\store\products\controller\HomeController.class
+com\store\products\dto\ProductRequest.class
+com\store\products\ProductsApplication.class
 com\store\products\repository\ProductRepository.class
 com\store\products\dto\ProductResponse.class
