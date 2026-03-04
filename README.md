@@ -1,7 +1,7 @@
 # ApiRest_Productos
 
 
-## Crear un producto
+### Crear un producto
 
 Método: POST
 
@@ -14,19 +14,19 @@ http://localhost:8080/api/products
     "stock": 10
 }
 
-#Listar todos
+### Listar todos los productos
 
 Método: GET
 
 URL: http://localhost:8080/api/products
 
-#Obtener por ID
+### Obtener por ID un producto
 
 Método: GET
 
 URL: http://localhost:8080/api/products/1
 
-#Actualizar
+### Actualizar producto
 
 Método: PUT
 
@@ -39,7 +39,7 @@ URL: http://localhost:8080/api/products/1
     "stock": 15
 }
 
-#Eliminar
+### Eliminar producto
 
 Método: DELETE
 
