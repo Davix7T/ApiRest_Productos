@@ -1,7 +1,7 @@
 # ApiRest_Productos
 
 
-Crear un producto
+#Crear un producto
 Método: POST
 http://localhost:8080/api/products
 {
@@ -31,7 +31,6 @@ URL: http://localhost:8080/api/products/1
     "stock": 15
 }
 
-12.5 — Eliminar (DELETE)
-
+Eliminar
 Método: DELETE
 URL: http://localhost:8080/api/products/1
